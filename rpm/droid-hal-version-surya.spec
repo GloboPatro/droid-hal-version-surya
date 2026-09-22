@@ -8,8 +8,7 @@
 %define device_pretty Poco X3 NFC
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
-%define have_ffmemless 1
-%define have_led 1
+%define have_vibrator_binder 1
 
 %include droid-hal-version/droid-hal-version.inc
 
